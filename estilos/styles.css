@@ -949,11 +949,3 @@ section:nth-child(odd) .animate.scroll,
     }
 }
 
-
-/* Minhas alterações na tela */
-
-@media screen and (max-width: 319px)  {
-    .home-sci {
-        bottom: 2rem;
-    }
-}
