@@ -952,7 +952,7 @@ section:nth-child(odd) .animate.scroll,
 
 /* Minhas alterações na tela */
 
-@media screen and (max-width: 419px) and (max-height: 593px) {
+@media screen and (max-width: 419px)  {
     .home-sci {
         bottom: 2rem;
     }
