@@ -908,6 +908,11 @@ section:nth-child(odd) .animate.scroll,
     .home-content h1 {
         font-size: 5rem;
     }
+
+    /* Alteração da altura do botão das redes sociais */
+    .home-sci {
+        bottom: 1rem;
+    }
 }
 
 
@@ -948,4 +953,5 @@ section:nth-child(odd) .animate.scroll,
         width: 0;
     }
 }
+
 
