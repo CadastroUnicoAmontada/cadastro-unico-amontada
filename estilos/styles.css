@@ -862,6 +862,7 @@ section:nth-child(odd) .animate.scroll,
 
     .home-sci {
         width: 160px;
+        /* alteração para ajustar botões das redes socias em celular */
         bottom: 1rem;
     }
 
