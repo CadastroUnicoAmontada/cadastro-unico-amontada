@@ -875,6 +875,12 @@ section:nth-child(odd) .animate.scroll,
         font-size: 5.2rem;
     }
 
+    /* Alteração da altura do botão das redes sociais */
+
+    .home-sci {
+        bottom: 1rem;
+    }
+
     .education {
         padding: 10rem 4% 5rem 5%;
     }
@@ -909,10 +915,7 @@ section:nth-child(odd) .animate.scroll,
         font-size: 5rem;
     }
 
-    /* Alteração da altura do botão das redes sociais */
-    .home-sci {
-        bottom: 1rem;
-    }
+
 }
 
 
