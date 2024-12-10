@@ -862,6 +862,7 @@ section:nth-child(odd) .animate.scroll,
 
     .home-sci {
         width: 160px;
+        bottom: 1rem;
     }
 
     .home-sci a {
@@ -875,11 +876,6 @@ section:nth-child(odd) .animate.scroll,
         font-size: 5.2rem;
     }
 
-    /* Alteração da altura do botão das redes sociais */
-
-    .home-sci {
-        bottom: 1rem;
-    }
 
     .education {
         padding: 10rem 4% 5rem 5%;
